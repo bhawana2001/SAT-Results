@@ -3,7 +3,7 @@
 ## Prerequisites
 - Node.js and npm installed
 - Java Development Kit (JDK)
-- MySQL Workbenchg
+- MySQL Workbench
 
 ## Setup Instructions
 
